@@ -94,6 +94,7 @@ export default class Home extends Component {
                             style={{paddingLeft:15*s,paddingTop:10*s,color:"#fff"}}
                         />
                         <TextInput 
+                            style={{height:50*s,alignItems:'center'}}
                             placeholder="请输入你要搜索的关键字"
                             placeholderTextColor="#fff"
                         />
